@@ -2,7 +2,9 @@
 --------------------------------
 How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
 --------------------------------
-User stories really help break down what people actually want into something a developer can use. Instead of just hearing “I want a travel app,” you figure out what that means in smaller, more detailed pieces. Using the format “As a [user], I want to [do something] so that [I get this benefit]” helped me translate vague goals into real features that could be designed, coded, and tested. It helped the team stay focused on the importance of each innovation and creativity rather than just its technical aspects.
+To me, building something useful starts with actually listening to what people need. I try to look at the bigger picture of what someone is trying to do, and then break that down into smaller features. You’re not just building something to look nice or run fast; it needs to actually solve a real problem for someone. That’s where user stories come in. The structure of “As a [user], I want to [do something] so that [I can accomplish a goal]” helps narrow things down and puts the focus on the user's perspective.
+
+I can utilize that structure to draw the connection between what the user is attempting to achieve and how I might implement that in the application, rather than guessing about what a feature should do.
 
 How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?
 --------------------------------
